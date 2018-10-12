@@ -7,7 +7,7 @@
 iris = read.csv("iris.csv") #read in iris.csv data as a variable called iris
 iris #view the data in the variable iris 
 head (iris,10) #take the top 10 rows of the variable iris 
-### Brittni: We wanted you to recreate the functionality of head without using it. I took off 0.5 points, because you did still assign the variables. What we were looking for was something like:
+### Brittni: We wanted you to recreate the functionality of head without using it. I took off 0.2 points, because you did still assign the variables. What we were looking for was something like:
 ## numLines=10
 ## iris[1:numLines,]
 
